@@ -1,2 +1,2 @@
 # vue
-vue和vuex等demo
+VUE小号随写练习，移动端电商类，适合Ç初学者看
